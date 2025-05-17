@@ -1,19 +1,19 @@
-# ContentQA
+# SSE(Server Sent Event)
 
 A real-time document validation system using FastAPI and Server-Sent Events (SSE).
 
 ---
 
 ## DEMO
-![ContentQA Demo](images/demo_video.webm)
+![SSE Demo](images/demo2.gif)
 
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (vanilla)
 - **Backend**: FastAPI (Python)
 - **Communication**: Server-Sent Events (SSE) for real-time updates
-
 ---
+
 
 ## 📦 Installation
 
@@ -27,8 +27,8 @@ A real-time document validation system using FastAPI and Server-Sent Events (SSE
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/contentqa.git
-   cd contentqa
+   git clone https://github.com/Im-Alam/server_sent_event.git
+   cd server_sent_event.git
 
 2. **🔧Create and activate a virtual environment:**
 
