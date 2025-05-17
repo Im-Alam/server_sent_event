@@ -1,0 +1,5 @@
+image_.png
+Venv
+workflow.txt
+__pycache__/
+*.pyc

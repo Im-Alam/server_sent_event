@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/icon.png" type="image/x-icon">
+    <title>ContentQA</title>
+    
+</head>
+
+<body>
+    <div id="header">
+        <!-- <h1>TNQ TECH</h1> -->
+        <img src="images/image.png" alt="SSE_Logo" id="company_logo", width="20%">
+    </div>  
+
+    <div id="content">
+        <div id="navigator">
+            <h2>ContentQA</h2>
+            <p>Publish before Print(PeP)</p>
+            <form action="", method="POST" id="form">
+                <label for="url">URL:</label>
+                <input type="text" id="url" name="url" placeholder="Enter URL" required>
+                <br>
+                <label for="question">Attach basic information:</label>
+                <!-- Upload document -->
+                <input type="file" id="file" name="document" accept=".pdf">
+                <br>
+                <button type="submit">Submit</button>
+            </form>
+
+        </div>
+
+        <div id="report">
+            <h2>Report</h2>
+            <div id="report-content">
+                <div id="status-indicator">No validation in progress</div>
+                <div id="events-container"></div>
+            </div>
+        </div>
+    </div>  
+
+</body>
+<script src="script.js"></script>
+</html>
