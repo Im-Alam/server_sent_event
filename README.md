@@ -4,6 +4,9 @@ A real-time document validation system using FastAPI and Server-Sent Events (SSE
 
 ---
 
+## DEMO
+![ContentQA Demo](images/demo_video.webm)
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (vanilla)
